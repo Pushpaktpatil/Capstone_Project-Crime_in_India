@@ -1,4 +1,5 @@
 This file contains the excel sheet of all the data collected from different sources. sources are as follows:
+
 1)https://data.gov.in/resource/stateuts-wise-literacy-rates-census-2001-and-2011
 2)https://www.census2011.co.in/sexratio.php
 3)https://www.indiaonlinepages.com/population/literacy-rate-in-india.html
